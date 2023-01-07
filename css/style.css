@@ -84,7 +84,6 @@
   background-image:url(/images/body/gradient2.png),url(/images/body/watch.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover;
   width: 1140px;
   height: 300px;
 }
@@ -92,7 +91,7 @@
   padding: 130px 230px 100px 200px;
 }
 .gradient-content {
-  padding: 59px 0 59px 64px;
+  padding: 59px 64px 59px 50px;
 }
 .bg-black {
   background-color: black;
