@@ -8,11 +8,13 @@
   height: 800px;
   width: 100%;
 }
+.padding {
+  padding: 216px 230px 166px 200px;
+}
 .banner-body {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
-  padding: 216px 230px 166px 0px;
   text-align: right;
 }
 .heading {
@@ -32,3 +34,38 @@
   font-size: 20px;
 }
 /* heading section done */
+/* main section */
+.body {
+  display: flex;
+  align-items: center;
+  gap: 85px;
+  justify-content: space-around;
+}
+.font-semibold{
+  font-weight: bold;
+  font-size: 40px;
+}
+.margin-btm {
+  margin-bottom: 24px;
+}
+.margin-top {
+  margin-top: 15px;
+}
+.green {
+  color: green;
+}
+.fluid {
+  width: 100%;
+}
+.center {
+  text-align: center;
+}
+.font25 {
+  font-size: 25px;
+  font-weight: 500;
+  color: #737272;
+}
+.font30 {
+  font-size: 30px;
+  font-weight: bold;
+}
