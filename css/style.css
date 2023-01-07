@@ -4,7 +4,7 @@
 }
 /* heading section */
 .banner {
-  background-image: url(images/banner/banner1.png);
+  background-image: url(../images/banner/banner1.png);
   height: 800px;
   width: 100%;
 }
@@ -81,7 +81,7 @@
   font-weight: bold;
 }
 .gradient {
-  background-image:url(images/body/gradient2.png),url(images/body/watch.png);
+  background-image:url(../images/body/gradient2.png),url(../images/body/watch.png);
   background-repeat: no-repeat;
   background-position: center;
   width: 1140px;
